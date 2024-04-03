@@ -36,7 +36,7 @@
         "oldpak/event-manager": "^1.0"
     },
     "require-dev": {
-        "doctrine/coding-standard": "9.0.0",
+        "oldpak/coding-standard": "^1.0",
         "jetbrains/phpstorm-stubs": "2021.1",
         "phpstan/phpstan": "1.4.6",
         "phpunit/phpunit": "^7.5.20|^8.5|9.5.16",
